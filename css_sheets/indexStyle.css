@@ -1,0 +1,12 @@
+.list{
+    background-color: rgb(240, 164, 23);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    display: inline-block;
+}
+
+.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+}
